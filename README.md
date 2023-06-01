@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrsh-10
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning django , react and nodejs
+- 🌱 specialize in Angular and spring
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me at: abrhamsisay33@gmail.com
 
