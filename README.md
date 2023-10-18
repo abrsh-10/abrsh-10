@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrsh-10
 - 👀 I’m interested in web and mobile app development
-- 🌱 specialize in Angular and spring
+- 🌱 specialize in Angular,Flutter and spring
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me at: abrhamsisay33@gmail.com
 
